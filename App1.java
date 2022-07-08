@@ -24,7 +24,7 @@ public class App {
        System.out.print("age    : ");
        if(a<5){
         for(int i = 1 ; i<=a ;i++){
-            System.out.print("$");
+            System.out.print("&");
            }
            System.out.println(" ");
        }else{
@@ -32,12 +32,12 @@ public class App {
         int e = a-d*5;
         for (int i = 1; i<=d;i++){
             for (int l = 1 ; l<=5;l++){
-                System.out.print("$");
+                System.out.print("&");
         }
         System.out.print(" ");
        }
        for(int i = 1 ; i<=e ;i++){
-        System.out.print("$");
+        System.out.print("&");
        }
        System.out.println(" ");       
     }
@@ -45,7 +45,7 @@ public class App {
        System.out.print("height : ");
        if(b<5){
         for(int i = 1 ; i<=b ;i++){
-            System.out.print("$");
+            System.out.print("&");
            }
            System.out.println(" ");
        }else{
@@ -53,12 +53,12 @@ public class App {
         double h = b-k*5;
         for (int i = 1; i<=k;i++){
             for (int l = 1 ; l<=5;l++){
-                System.out.print("$");
+                System.out.print("&");
         }
         System.out.print(" ");
        }
        for(int i = 1 ; i<=h ;i++){
-        System.out.print("$");
+        System.out.print("&");
        }
        System.out.println(" ");       
     }
@@ -66,7 +66,7 @@ public class App {
        System.out.print("weight : ");
        if(c<5){
         for(int i = 1 ; i<=c ;i++){
-            System.out.print("$");
+            System.out.print("&");
            }
            System.out.println(" ");
        }else{
@@ -74,12 +74,12 @@ public class App {
         double m = c-n*5;
         for (int i = 1; i<=n;i++){
             for (int l = 1 ; l<=5;l++){
-                System.out.print("$");
+                System.out.print("&");
         }
         System.out.print(" ");
        }
        for(int i = 1 ; i<=m ;i++){
-        System.out.print("$");
+        System.out.print("&");
        }
        System.out.println(" ");       
     }
